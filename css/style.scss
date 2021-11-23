@@ -1,0 +1,26 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.block{
+  background-color: orange;
+  border: solid 1px black;
+}
+
+.fourth{
+  height: 280px;
+  background-size: cover;
+}
+.visitors_report{
+  max-width: 643px;
+  width: 100%;
+  background-image: url("../images/visitors_report.png");
+}
+
+.right_stripes{
+  max-width: 307px;
+  width: 100%;
+  background-image: url("../images/right_stripes.png");
+}
+
